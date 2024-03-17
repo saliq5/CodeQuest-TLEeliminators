@@ -1,8 +1,7 @@
-# CodeQuest-TLEeliminators
+# TASK 1
 
 
-<b>Task 1</b> -> Best MSE - 0.75881 </br>
-We used several models and selected the best one which is XGB Regressor .
+Best MSE - 0.75881 for XGB Regressor
 ## Models
 
 * Model: Linear Regression
@@ -61,10 +60,15 @@ ________________________________________________________________________________
 * Cross-validation MSE: 0.6291726502845362
 * Test MSE: 1.2003543244777923
 _________________________________________________________________________________
-<b>Task 2</b> -> Best Validation accuracy without augmentation - 75%  &&  with augmentation - 82%
+
+# Task 2
+
+Best Validation accuracy without augmentation - 75%  &&  with augmentation - 82%
+
+Model Link - https://drive.google.com/file/d/1-7STNTYTy1wUEx8RTRQEYmOwbcBda19H/view?usp=sharing
+
+# Tech Stack Used 
+* Python
+* Tensorflow
 
 
-<b>Task 2 Model Link</b> - (Cannot be uploaded here as file is 233 Mb) -  https://drive.google.com/file/d/1-7STNTYTy1wUEx8RTRQEYmOwbcBda19H/view?usp=sharing
-
-## Tech Stack Used :- 
-Python
