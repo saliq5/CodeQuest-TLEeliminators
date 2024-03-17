@@ -6,3 +6,6 @@
 
 
 <b>Task 2 Model Link</b> - (Cannot be uploaded here as file is 233 Mb) -  https://drive.google.com/file/d/1-7STNTYTy1wUEx8RTRQEYmOwbcBda19H/view?usp=sharing
+
+Tech Stack Used :- 
+Python
