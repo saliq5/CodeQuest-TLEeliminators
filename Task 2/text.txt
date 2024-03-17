@@ -1,0 +1,1 @@
+I have added all experiments in another folder and the end experiment outside it along with the submission. We performed augmentation as well and got better accuracy but after getting the test predictions i noticed bias, hence dropped it.
