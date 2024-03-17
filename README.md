@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 # Task 2
 
-Best Validation accuracy without augmentation - 75%  &&  with augmentation - 82%
+We initially developed a custom CNN architecture, achieving an accuracy of 59.8%. Subsequently, we fine-tuned a pre-trained model, EfficientNetV2, boosting our accuracy to 75%. Through additional techniques such as image sharpening and augmentation, our accuracy soared to 82%.
 
 Model Link - https://drive.google.com/file/d/1-7STNTYTy1wUEx8RTRQEYmOwbcBda19H/view?usp=sharing
 
