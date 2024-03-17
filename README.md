@@ -1,7 +1,7 @@
 # CodeQuest-TLEeliminators
 
 
-<b>Task 1</b> -> Best MSE - 0.75881
+<b>Task 1</b> -> Best MSE - 0.75881 </br>
 <b>Task 2</b> -> Best Validation accuracy without augmentation - 75%  &&  with augmentation - 82%
 
 
